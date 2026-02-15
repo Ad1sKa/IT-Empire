@@ -1,0 +1,15 @@
+{
+  "short_name": "IT Empire",
+  "name": "IT Empire Pro: Tycoon",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#0b0e14",
+  "background_color": "#0b0e14"
+}
